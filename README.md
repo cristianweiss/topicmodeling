@@ -6,7 +6,9 @@ CRISTIAN EDEL WEISS ¹ | email@cristianweiss.com
 
 Mostramos como o uso da modelagem de tópicos, uma técnica de machine learning, pode ajudar os repórteres a examinar rapidamente grandes quantidades de texto a fim de detectar os assuntos (tópicos) mais relevantes abordados no corpus e, em seguida, a buscar os trechos desejados com exatidão para análise objetiva do conteúdo. Pode ser útil para examinar dossiês, relatórios, processos judiciais, debates eleitorais e livros. Vamos construir juntos o modelo de um algoritmo otimizado para lidar com textos em língua portuguesa, baseado nos métodos de modelagem de tópicos [Top2Vec](https://github.com/ddangelov/Top2Vec). Os participantes aprenderão a preparar os textos (pré-processamento), remover palavras irrelevantes, treinar o modelo e exibir os resultados em formas de tabelas e nuvem de palavras, úteis para publicação digital. Não é necessário conhecimento de programação ou Python, pois os usuários rodarão o script no Google Colab e precisarão apenas alterar variáveis que interessam ao próprio projeto.
 
-Apresentação
+**Apresentação**
+Este notebook foi desenvolvido para participação no 19º Congresso Internacional de Jornalismo Investigativo em julho de 2024:
+![image](https://github.com/cristianweiss/topicmodeling/assets/32395788/7cce3a67-aee5-4e1f-980c-6bddf4870fba)
 
 Para saber mais sobre como funciona a modelagem de tópicos, acesse a apresentação:
 
